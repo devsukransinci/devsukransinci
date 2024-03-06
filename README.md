@@ -1,6 +1,5 @@
 
-
-<h1 align="center">Hi 👋, I'm şükran sinci</h1>
+![s](https://github.com/devsukransinci/devsukransinci/assets/80584011/a04eca79-f9a3-4957-a5f1-37d24abc6644) <h1 align="center">Hi 👋, I'm şükran sinci</h1>
 
 <h3 align="center">A passionate full-Stack developer from turkey</h3>
 
