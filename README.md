@@ -1,8 +1,11 @@
 
+
 <h1 align="center">Hi 👋, I'm şükran sinci</h1>
+
 <h3 align="center">A passionate full-Stack developer from turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsukransinci" alt="devsukransinci" /></a> </p>
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/devsukransinci/devsukransinci/assets/80584011/48d5e46a-46bb-487d-9aa4-57cf1e182350)
+
 
 - 🌱 I’m currently learning **spring boot,Angular**
 
@@ -12,7 +15,25 @@
 
 - 📫 How to reach me **sincisukran54@gmail.com**
 
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/devsukransinci/devsukransinci/assets/80584011/48d5e46a-46bb-487d-9aa4-57cf1e182350)
+
+
+
+![216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c](https://github.com/devsukransinci/devsukransinci/assets/80584011/5c1fb589-5770-4dcc-8ad2-84eb991dacf7)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/devsukransinci/devsukransinci/assets/80584011/20b79bed-856c-45ed-b00c-608b14f2b77f)
+
+  
+ <img src="https://github-profile-trophy.vercel.app/?username=devsukransinci" alt="devsukransinci" /></a> </p>
+
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/devsukransinci/devsukransinci/assets/80584011/48d5e46a-46bb-487d-9aa4-57cf1e182350)
+
+
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/şükransinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şükransinci" height="30" width="40" /></a>
 <a href="https://medium.com/@sincisukran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sincisukran" height="30" width="40" /></a>
