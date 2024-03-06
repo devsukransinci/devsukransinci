@@ -48,6 +48,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsukransinci&" alt="devsukransinci" /></p>
 
-![snake gif](https://github.com/devsukransinci/devsukransinci/blob/output/github-contribution-grid-snake.gif)
+
 
 
