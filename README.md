@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm şükran sinci</h1>
 
-<h3 align="center">A passionate full-Stack Java&Angular developer  from turkey</h3>
+<h3 align="center">A passionate full-Stack Java Spring boot & Angular developer  from turkey</h3>
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/devsukransinci/devsukransinci/assets/80584011/48d5e46a-46bb-487d-9aa4-57cf1e182350)
 
