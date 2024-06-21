@@ -18,7 +18,7 @@
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/devsukransinci/devsukransinci/assets/80584011/48d5e46a-46bb-487d-9aa4-57cf1e182350)
 
 
-![216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c](https://github.com/devsukransinci/devsukransinci/assets/80584011/5c1fb589-5770-4dcc-8ad2-84eb991dacf7)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   
