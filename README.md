@@ -15,11 +15,6 @@
 - 📫 How to reach me **sincisukran54@gmail.com**
 
 
-
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/devsukransinci/devsukransinci/assets/80584011/20b79bed-856c-45ed-b00c-608b14f2b77f)
