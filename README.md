@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm şükran sinci</h1>
+<h1 align="center">Hi  👋, I'm şükran sinci</h1>
 
 <h3 align="center">A passionate full-Stack Java & Angular developer  from turkey</h3>
 
