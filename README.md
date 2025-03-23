@@ -6,8 +6,6 @@
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/devsukransinci/devsukransinci/assets/80584011/48d5e46a-46bb-487d-9aa4-57cf1e182350)
 
 
-- 🌱 I’m currently learning **spring boot, Angular**
-
 - 📝 I regularly write articles on [https://medium.com/@sincisukran](https://medium.com/@sincisukran)
 
 - 💬 Ask me about **everything about software**
