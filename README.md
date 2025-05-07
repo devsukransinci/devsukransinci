@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi  👋, I'm şükran sinci</h1>
 
-<h3 align="center">full-Stack developer &  & UI/UX Designer </h3>
+<h3 align="center">full-Stack developer & UI/UX Designer </h3>
 
  - 🎻 I work on digital art and interface designs.
  - 🎨 My greatest passion is to develop software that combines aesthetics and function.
