@@ -1,9 +1,11 @@
 
 <h1 align="center">Hi  👋, I'm şükran sinci</h1>
 
-<h3 align="center">full-Stack Java & Angular developer from turkey</h3>
+<h3 align="center">full-Stack developer &  & UI/UX Designer </h3>
 
-
+ - 🎻 I work on digital art and interface designs.
+ - 🎨 My greatest passion is to develop software that combines aesthetics and function.
+ - 🧠 I aim to produce projects that focus on user experience by using both my creative and analytical sides.
 
 - 📝 I regularly write articles on [https://medium.com/@sincisukran](https://medium.com/@sincisukran)
 
