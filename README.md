@@ -14,7 +14,7 @@
 - 📫 How to reach me **sincisukran54@gmail.com**
   
  - Technology is my language, design is my voice, and music is my rhythm.
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy">
   
 
   
