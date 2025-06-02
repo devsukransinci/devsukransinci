@@ -3,7 +3,7 @@
 
 <h3 align="center">full-Stack developer & UI/UX Designer </h3>
 
- - 🎻 I work on digital art and interface designs.
+ - 🎻 I work on digital art and interface designs https://www.behance.net/skransinci
  - 🎨 My greatest passion is to develop software that combines aesthetics and function.
  - 🧠 I aim to produce projects that focus on user experience by using both my creative and analytical sides.
 
