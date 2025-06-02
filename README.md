@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sincisukran](https://medium.com/@sincisukran)
 
-- 💬 Ask me about **everything about software**
-
 - 📫 How to reach me **sincisukran54@gmail.com**
   
  - Technology is my language, design is my voice, and music is my rhythm.
