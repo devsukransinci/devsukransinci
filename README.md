@@ -61,12 +61,18 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vercel" />
 </p>
 
+
+### 👾 GitHub Stats
+
+<p align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsukransinci&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsukransinci&" alt="devsukransinci" /></p>
-
-
+<p align="center">
+  <img src="https://i.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" width="250px"/>
+</p>
 
 
