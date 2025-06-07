@@ -1,18 +1,22 @@
 
-<h1 align="center">Hi  👋, I'm şükran sinci</h1>
+<h1 align="center">Hi 👋, I'm şükran sinci 🚀</h1>
 
-<h3 align="center">full-Stack developer & UI/UX Designer </h3>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | Creative Technologist </h3>
 
- - 🎻 I work on digital art and interface designs https://www.behance.net/skransinci
- - 🎨 My greatest passion is to develop software that combines aesthetics and function.
- - 🧠 I aim to produce projects that focus on user experience by using both my creative and analytical sides.
+<p align="center">
+  <i>"Design is my voice, code is my instrument, and creativity is my rhythm."</i>
+</p>
 
-- 📝 I regularly write articles on [https://medium.com/@sincisukran](https://medium.com/@sincisukran)
+### 🎯 About Me
 
-- 📫 How to reach me **sincisukran54@gmail.com**
-  
- - Technology is my language, design is my voice, and music is my rhythm.
-<p align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy">
+- 👩‍💻 I’m a Full-Stack Developer with a strong background in **UI/UX design** and digital art.
+- 🎨 I believe in building experiences, not just interfaces.
+- 🔍 I blend creativity with logic to craft intuitive, user-centric digital products.
+- ✍️ I regularly share thoughts and tutorials on [Medium](https://medium.com/@sincisukran).
+- 🎻 I also explore digital art — check out my work on [Behance](https://www.behance.net/skransinci).
+- 📫 Let’s collaborate: **sincisukran54@gmail.com**
+
+---
   
 
   
