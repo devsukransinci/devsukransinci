@@ -80,4 +80,8 @@
   <img src="https://i.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" width="250px"/>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/EXAMPLE.gif" alt="Kuyruklu Yıldız Animasyonu" width="250px"/>
+</p>
+
 
