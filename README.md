@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | UI/UX Designer | Creative Technologist </h3>
 
 <p align="center">
-  <i>"Design is my voice, code is my instrument, and creativity is my rhythm."</i>
+  <i>"I love everything about technology."</i>
 </p>
 
 ### 🎯 About Me
