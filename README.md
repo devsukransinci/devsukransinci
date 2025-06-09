@@ -9,7 +9,7 @@
 
 ### 🎯 About Me
 
-- 👩‍💻 I’m a Full-Stack Developer with a strong background in **UI/UX design** and digital art.
+- 👩‍💻 I’m a Full-Stack Developer with a strong background in UI/UX design and digital art.
 - 🎨 I believe in building experiences, not just interfaces.
 - 🔍 I blend creativity with logic to craft intuitive, user-centric digital products.
 - ✍️ I regularly share thoughts and tutorials on [Medium](https://medium.com/@sincisukran).
