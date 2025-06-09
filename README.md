@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | UI/UX Designer | Creative Technologist </h3>
 
 <p align="center">
-  <i>"I love everything about technology."</i>
+  <i>"I love everything about technology"</i>
 </p>
 
 ### 🎯 About Me
