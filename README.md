@@ -27,7 +27,7 @@
 </p>
 
   
-
+---
 
 
 
@@ -46,6 +46,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" height="40" alt="behance"/>
   </a>
 </p>
+
 ---
 
 ### 🚀 My Interstellar Stack
@@ -67,6 +68,7 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vercel" />
 </p>
 
+---
 
 ### 👾 GitHub Stats
 
@@ -75,7 +77,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsukransinci&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" alt="space comet" width="300px"/>
