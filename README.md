@@ -3,6 +3,10 @@
 
 <h3 align="center">Full-Stack Developer | UI/UX Designer | Creative Technologist </h3>
 
+
+
+
+
 <p align="center">
   <i>"I love everything about technology"</i>
 </p>
@@ -17,12 +21,10 @@
 - 📫 Let’s collaborate: **sincisukran54@gmail.com**
 
 ---
-  
+
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=devsukransinci&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15)
 
   
- <img src="https://github-profile-trophy.vercel.app/?username=devsukransinci" alt="devsukransinci" /></a> </p>
- 
- 
 
 
   
