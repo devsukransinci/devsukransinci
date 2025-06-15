@@ -15,11 +15,7 @@
 - 🔍 I blend creativity with logic to craft intuitive, user-centric digital products.
 - ✍️ I regularly share thoughts and tutorials on [Medium](https://medium.com/@sincisukran).
 - 🎻 I also explore digital art — check out my work on [Behance](https://www.behance.net/skransinci).
-- ## Coding Challenges & Problem Solving
-
-Check out my Hackerrank profile for a showcase of my problem solving abilities and coding challenges:
-
-[![Hackerrank Profile](https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sincisukran54)
+- 👩‍💻Check out my Hackerrank profile for a showcase of my problem solving abilities and coding challenges:[![Hackerrank Profile](https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sincisukran54)
 
 - 📫 Let’s collaborate: **sincisukran54@gmail.com**
 
