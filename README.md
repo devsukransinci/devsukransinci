@@ -35,9 +35,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" alt="medium"/>
   </a>
 
- <a href="https://www.behance.net/skransinci" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" height="40" alt="behance"/>
-  </a>
 </p>
 
 ---
