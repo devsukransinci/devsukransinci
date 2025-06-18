@@ -11,7 +11,7 @@
 - ✍️ I regularly share thoughts and tutorials on [Medium](https://medium.com/@sincisukran).
 -  👩‍💻Check out my full progress and solutions on my [Hackerrank Profile](https://www.hackerrank.com/profile/sincisukran54).
 - 📫 Let’s collaborate: **sincisukran54@gmail.com**
-- NOTE : You can fork and contribute to any of the projects Handshake
+- NOTE : You can fork and contribute to any of the projects
 
 ---
 
