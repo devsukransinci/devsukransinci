@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 👩‍💻 I’m a Full-Stack Developer with a strong background in UI/UX design and digital art.
+- 👩‍💻 I’m a Full-Stack Developer
 - 🎨 I believe in building experiences, not just interfaces.
 - 🔍 I blend creativity with logic to craft intuitive, user-centric digital products.
 - I actively improve my problem-solving skills and programming knowledge on Hackerrank.
