@@ -8,7 +8,6 @@
 
 - 👩‍💻 I’m a Full-Stack Developer
 - 🎨 I believe in building experiences, not just interfaces.
-- 🔍 I blend creativity with logic to craft intuitive, user-centric digital products.
 - I actively improve my problem-solving skills and programming knowledge on Hackerrank.
 - ✍️ I regularly share thoughts and tutorials on [Medium](https://medium.com/@sincisukran).
 -  👩‍💻Check out my full progress and solutions on my [Hackerrank Profile](https://www.hackerrank.com/profile/sincisukran54).
