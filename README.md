@@ -1,12 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm şükran sinci </h1>
 
-<h3 align="center">Full-Stack Developer | UI/UX Designer | Creative Technologist </h3>
+<h3 align="center">Full-Stack Developer  </h3>
 
-
-<p align="center">
-  <i>"I love everything about technology"</i>
-</p>
 
 ### About Me
 
@@ -15,7 +11,6 @@
 - 🔍 I blend creativity with logic to craft intuitive, user-centric digital products.
 - I actively improve my problem-solving skills and programming knowledge on Hackerrank.
 - ✍️ I regularly share thoughts and tutorials on [Medium](https://medium.com/@sincisukran).
-- 🎻 I also explore digital art — check out my work on [Behance](https://www.behance.net/skransinci).
 -  👩‍💻Check out my full progress and solutions on my [Hackerrank Profile](https://www.hackerrank.com/profile/sincisukran54).
 - 📫 Let’s collaborate: **sincisukran54@gmail.com**
 
