@@ -9,7 +9,7 @@
 -  I’m a Full-Stack Developer
 - I actively improve my problem-solving skills and programming knowledge on Hackerrank.
 -  I regularly share thoughts and tutorials on [Medium](https://medium.com/@sincisukran).
--  ### 📘 My DSA Series [Read the full series here] [https://dev.to/sukransinci](https://dev.to/sukransinci)
+- My DSA Series [Read the full series here] [https://dev.to/sukransinci](https://dev.to/sukransinci)
 -  Check out my full progress and solutions on my [Hackerrank Profile](https://www.hackerrank.com/profile/sincisukran54).
 -  Let’s collaborate: **sincisukran54@gmail.com**
 - NOTE : You can fork and contribute to any of the projects
