@@ -18,31 +18,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devsukransinci&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
-
- 
-
----
-
-### 🚀 My Interstellar Stack
-
-#### ☄️ Languages & Frameworks  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,spring,angular" />
-</p>
-
-#### 🪐 Databases & Messaging  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-  <img src="https://img.shields.io/badge/Kafka-black?logo=apachekafka&style=flat"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&style=flat"/>
-</p>
-
-#### 🌠 DevOps & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vercel" />
-</p>
-
+</p
 ---
 
 ### 👾 GitHub Stats
