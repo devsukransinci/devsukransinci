@@ -12,7 +12,7 @@
 - My DSA Series [https://dev.to/sukransinci](https://dev.to/sukransinci)
 -  Check out my full progress and solutions on my [Hackerrank Profile](https://www.hackerrank.com/profile/sincisukran54).
 -  LeetCode https://leetcode.com/u/devsukransinci/
-- Articles & Thoughts → Substack https://substack.com/@sukransinci
+- Articles & Thoughts  https://substack.com/@sukransinci
 -  Let’s collaborate: **sincisukran54@gmail.com**
 - NOTE : You can fork and contribute to any of the projects
 
