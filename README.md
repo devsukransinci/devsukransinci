@@ -10,9 +10,10 @@
 - I actively improve my problem-solving skills and programming knowledge on Hackerrank.
 -  I regularly share thoughts and tutorials on [Medium](https://medium.com/@sincisukran).
 - My DSA Series [https://dev.to/sukransinci](https://dev.to/sukransinci)
- - I also enjoy working on visual design and creative projects. You can find my work on Behance. https://www.behance.net/skransinci
 -  Check out my full progress and solutions on my [Hackerrank Profile](https://www.hackerrank.com/profile/sincisukran54).
 -  LeetCode https://leetcode.com/u/devsukransinci/
+- I also enjoy working on visual design and creative projects. You can find my work on Behance. https://www.behance.net/skransinci
+
 - Articles & Thoughts  https://substack.com/@sukransinci
 -  Let’s collaborate: **sincisukran54@gmail.com**
 - NOTE : You can fork and contribute to any of the projects
