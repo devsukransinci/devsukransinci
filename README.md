@@ -1,12 +1,11 @@
 
 <h1 align="center"> I'm şükran sinci </h1>
 
-<h3 align="center">Full-Stack Developer  </h3>
+<h3 align="center">Java Backend Engineer </h3>
 
 
 ### About Me
 
--  I’m a Full-Stack Developer
 - I actively improve my problem-solving skills and programming knowledge on Hackerrank.
 -  I regularly share thoughts and tutorials on [Medium](https://medium.com/@sincisukran).
 - My DSA Series [https://dev.to/sukransinci](https://dev.to/sukransinci)
